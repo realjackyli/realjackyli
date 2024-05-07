@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78900&random=false&width=435&lines=Hi!+My+Name+Is+Orange)](https://git.io/typing-svg)
 ### Hello~这里是橘子的Github Profile哦(‾◡◝)
 ## 想认识我吗？看看我的社交媒体吧~
 [![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561198846416169&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+friends&cacheSeconds=3600)](https://steamcommunity.com/profiles/76561198846416169)
