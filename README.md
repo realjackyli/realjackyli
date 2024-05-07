@@ -3,3 +3,5 @@
 </p>
 ### Hello~这里是橘子的Github Profile哦(‾◡◝)
 ## 要想认识我吗？先来看看我的社交媒体吧~
+<img alt="Static Badge" src="https://img.shields.io/badge/@MissOrange-pink?logo=Steam&label=Steam&labelColor=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/@realjackyli-white?logo=X&label=Twitter&labelColor=black">
